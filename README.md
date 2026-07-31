@@ -83,6 +83,3 @@ A Efficientia é estruturada e dirigida pelos sócios:
 [![GitHub Profile](https://img.shields.io/badge/GitHub-PedroMacedo-181717?style=flat-square&logo=github)](https://github.com/PedroMacedo-Silva)
 
 ---
-
-## Contato e Soluções Corporativas
-Temos a estrutura jurídica e tecnológica necessária para o licenciamento de software em larga escala, focando sempre na segurança dos dados e no bem-estar animal
